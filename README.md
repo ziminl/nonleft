@@ -11,3 +11,7 @@ to do is use the youtube data api to remove each like by modifying the playlist 
 #trouble shooting
 
 if it hits rate limit, run it again. 
+
+# todo 
+
+add fb
